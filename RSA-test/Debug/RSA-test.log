@@ -1,0 +1,40 @@
+﻿  RSA-TEST.cpp
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(24,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(29,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(32,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(36,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(39,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(46,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(49,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(60,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(68,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(71,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(75,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(78,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(85,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(88,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(100,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(120,24): warning C4244: “参数”: 从“unsigned __int64”转换到“double”，可能丢失数据
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(133,24): warning C4244: “参数”: 从“unsigned __int64”转换到“double”，可能丢失数据
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(141,11): warning C4244: “return”: 从“unsigned __int64”转换到“int”，可能丢失数据
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(173,9): warning C4244: “return”: 从“unsigned __int64”转换到“int”，可能丢失数据
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(182,9): warning C4244: “return”: 从“unsigned __int64”转换到“int”，可能丢失数据
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(192,9): warning C4244: “return”: 从“unsigned __int64”转换到“int”，可能丢失数据
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(138): warning C4715: “prime2”: 不是所有的控件路径都返回值
+D:\Visual Studio\projects\RSA-test\RSA-TEST.cpp(125): warning C4715: “prime”: 不是所有的控件路径都返回值
+  RSA-test.vcxproj -> D:\Visual Studio\projects\RSA-test\Debug\RSA-test.exe

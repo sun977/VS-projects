@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\身份验证\bin\Debug\身份验证.exe.config
+D:\Visual Studio\projects\身份验证\bin\Debug\身份验证.exe
+D:\Visual Studio\projects\身份验证\bin\Debug\身份验证.pdb
+D:\Visual Studio\projects\身份验证\obj\Debug\身份验证.csprojAssemblyReference.cache
+D:\Visual Studio\projects\身份验证\obj\Debug\身份验证.Properties.Resources.resources
+D:\Visual Studio\projects\身份验证\obj\Debug\身份验证.csproj.GenerateResource.cache
+D:\Visual Studio\projects\身份验证\obj\Debug\身份验证.exe
+D:\Visual Studio\projects\身份验证\obj\Debug\身份验证.pdb
+D:\Visual Studio\projects\身份验证\bin\Debug\MySql.Data.dll
+D:\Visual Studio\projects\身份验证\bin\Debug\Google.Protobuf.dll
+D:\Visual Studio\projects\身份验证\bin\Debug\BouncyCastle.Crypto.dll
+D:\Visual Studio\projects\身份验证\bin\Debug\Renci.SshNet.dll
+D:\Visual Studio\projects\身份验证\bin\Debug\MySql.Data.xml
+D:\Visual Studio\projects\身份验证\obj\Debug\身份验证.Form1.resources
+D:\Visual Studio\projects\身份验证\obj\Debug\身份验证.csproj.CopyComplete

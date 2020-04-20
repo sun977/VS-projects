@@ -1,0 +1,9 @@
+D:\Visual Studio\projects\辗转相除法应用\Euclidean_algorithm\bin\Debug\Euclidean_algorithm.exe.config
+D:\Visual Studio\projects\辗转相除法应用\Euclidean_algorithm\bin\Debug\Euclidean_algorithm.exe
+D:\Visual Studio\projects\辗转相除法应用\Euclidean_algorithm\bin\Debug\Euclidean_algorithm.pdb
+D:\Visual Studio\projects\辗转相除法应用\Euclidean_algorithm\obj\Debug\Euclidean_algorithm.csprojAssemblyReference.cache
+D:\Visual Studio\projects\辗转相除法应用\Euclidean_algorithm\obj\Debug\Euclidean_algorithm.Properties.Resources.resources
+D:\Visual Studio\projects\辗转相除法应用\Euclidean_algorithm\obj\Debug\Euclidean_algorithm.csproj.GenerateResource.cache
+D:\Visual Studio\projects\辗转相除法应用\Euclidean_algorithm\obj\Debug\Euclidean_algorithm.exe
+D:\Visual Studio\projects\辗转相除法应用\Euclidean_algorithm\obj\Debug\Euclidean_algorithm.pdb
+D:\Visual Studio\projects\辗转相除法应用\Euclidean_algorithm\obj\Debug\Euclidean_algorithm.欧几里得算法.resources
